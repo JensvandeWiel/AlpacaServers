@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlpacaServers
 - 👀 I’m interested in Coding and networking (Im not good)
 - 🌱 I’m currently learning random stuff
-- 💞️ I’m looking to collaborate open source premium plugins for rust
+- 💞️ I’m looking to collaborate on open source premium plugins for rust
 - 📫 How to reach me Discord: Mr. Alpaca (っ◔◡◔)っ#8827
 
 <!---
